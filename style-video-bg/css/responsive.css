@@ -1,0 +1,1088 @@
+/* ----------------------------------------------------------------------- */
+/* 	Coming Soon Style 1 Responsive CSS */
+/*------------------------------------------------------------------------ */
+@media screen and (max-width: 1999px) {
+    #main-content-about.fixed-middle{
+        top: 53%;
+    }
+}
+
+@media screen and (max-width: 1799px) {
+    #main-content-contact .contact-small-title {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    #main-content-contact .contact-main-title {
+        font-size: 45px;
+        margin-bottom: 23px;
+        line-height: 50px;
+    }
+
+    #main-content-contact .form-control {
+        height: 45px;
+        font-size: 14px;
+        padding: 15px 23px;
+    }
+
+    #main-content-contact textarea.form-control {
+        height: auto;
+        font-size: 14px;
+        padding: 15px 23px;
+    }
+
+    
+
+    #main-content-contact .btn {
+        padding: 10.5px 50px;
+    }
+
+    #main-content-contact .contact-form {
+        padding: 30px 70px;
+    }
+
+    #main-content-contact .location-map {
+        height: 505px;
+    }
+
+    #main-content-about.fixed-middle{
+        top: 53%;
+    }
+
+}
+
+@media screen and (max-width: 1599px) {
+
+    .small-title {
+        margin-bottom: 10px;
+    }
+
+    .main-title {
+        margin-bottom: 25px;
+    }
+
+    .contact-small-title {
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+
+    .contact-main-title {
+        font-size: 34px;
+        margin-bottom: 23px;
+        line-height: 38px;
+    }
+
+    .form-control {
+        height: 35px;
+        font-size: 14px;
+        padding: 8px 23px;
+    }
+
+    #main-content-contact .btn {
+        padding: 9.5px 50px;
+    }
+
+    .location-map {
+        height: 430px;
+    }
+
+    .contact-form {
+        padding: 25px 70px;
+    }
+
+    #main-content-about .about-small-title {
+        margin-bottom: 5px;
+    }
+
+    #main-content-about .about-main-title {
+        font-size: 40px;
+        margin-bottom: 15px;
+        line-height: 40px;
+    }
+
+    #main-content-about .btn {
+        padding: 10.5px 50px;
+    }
+    .form-inline .form-control {
+        height: 55px;
+    }
+
+    #main-content-about.fixed-middle{
+        top: 58%;
+    }
+
+    #main-content-contact.fixed-middle{
+        top: 55%;
+    }
+}
+
+@media screen and (max-width: 1399px) {
+    .navbar {
+        margin-bottom: 20px;
+    }
+
+    .small-title {
+        margin-bottom: 15px;
+    }
+
+    .main-title {
+        font-size: 55px;
+        margin-bottom: 20px;
+    }
+
+    .counter-box {
+        height: 135px;
+        padding: 10px 60px;
+    }
+
+    .clock-item{
+        height: 120px;
+        width: 120px;
+        float: left;
+        margin-right: 20px; 
+    }
+
+    .text .val {
+        font-size: 44px;
+    }
+
+    .text .type-time {
+        font-size: 12px;
+    }
+
+
+    .home2-main-title {
+        font-size: 60px;
+        line-height: 60px;
+    }
+
+
+    .contact-small-title {
+        font-size: 17px;
+        margin-bottom: 5px;
+    }
+
+    .contact-main-title {
+        font-size: 34px;
+        margin-bottom: 23px;
+        line-height: 38px;
+    }
+
+    .form-control {
+        height: 35px;
+        font-size: 14px;
+        padding: 8px 23px;
+    }
+
+    #main-content-contact .btn {
+        padding: 9.5px 50px;
+    }
+
+    .location-map {
+        height: 430px;
+    }
+
+    .contact-form {
+        padding: 25px 70px;
+    }
+
+    #main-content-about .about-small-title {
+        margin-bottom: 5px;
+    }
+
+    #main-content-about .about-main-title {
+        font-size: 40px;
+        margin-bottom: 15px;
+        line-height: 40px;
+    }
+
+    #main-content-about .btn {
+        padding: 10.5px 50px;
+    }
+
+    #main-content-about.fixed-middle{
+        top: 57%;
+    }
+
+
+    #main-content-contact .contact-small-title {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+
+    #main-content-contact .contact-main-title {
+        font-size: 35px;
+        margin-bottom: 15px;
+        line-height: 35px;
+    }
+
+    #main-content-contact .form-control {
+        height: 35px;
+        padding: 5px 23px;
+    }
+
+    #main-content-contact textarea.form-control {
+        height: auto;
+        font-size: 14px;
+        padding: 5px 23px;
+    }
+
+    #main-content-contact .location-map {
+        height: 415px;
+    }
+
+}
+
+@media screen and (max-width: 1299px) {
+    #main-content-about .social-icons-verticle{
+        width: 250px;
+        bottom: 0px;
+        left: 100px;
+    }
+
+    #main-content-about .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+    #main-content-about.fixed-middle{
+        top: 59%;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    .contact-small-title {
+        font-size: 20px;
+        margin-bottom: 0px;
+    }
+
+    .contact-main-title {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .location-map {
+        height: 541px;
+    }
+
+    .location-map {
+        height: 430px;
+    }
+
+    #main-content-about .social-icons-verticle{
+        width: 76px;
+        position: fixed;
+        bottom: 25px;
+        left:25px;
+    }
+
+    #main-content-contact .contact-main-title {
+        font-size: 30px;
+        margin-bottom: 23px;
+        line-height: 30px;
+    }
+
+    #main-content-contact .contact-form {
+        padding: 30px 30px;
+    }
+
+    #main-content-about.fixed-middle{
+        top: 57%;
+    }
+
+
+    #main-content-contact.fixed-middle{
+        top: 57%;
+    }
+
+
+
+
+}
+
+@media screen and (max-width: 1099px) {
+    #main-content-about .social-icons-verticle{
+        width: 250px;
+        bottom: -35px;
+        left: 50px;
+    }
+
+    #main-content-about .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+
+    #main-content-about .about-first-pera {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    #main-content-about .about-second-pera {
+        font-size: 14px;
+        line-height: 1.5;
+        padding-left: 20px;
+    }
+
+    #main-content-about .about-second-pera::before {
+        top: 5px;
+    }
+
+
+    #main-content-contact .contact-form {
+        padding: 20px 15px;
+    }
+
+
+    #main-content-contact .contact-small-title {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+
+    #main-content-contact .contact-main-title {
+        font-size: 24px;
+        margin-bottom: 20px;
+        line-height: 28px;
+    }
+
+    #main-content-contact .form-control {
+        height: 40px;
+        font-size: 14px;
+        padding: 15px 23px;
+    }
+
+    #main-content-contact .social-icons-verticle{
+        width: 250px;
+        bottom: -90px;
+        left: 50px;
+    }
+
+    #main-content-contact .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+    #main-content-home-style2 .btn {
+        padding: 10.5px 30px;
+    }
+
+
+    #main-content-home-style2 .subscribe-form {
+        padding: 0 0px;
+    }
+
+    #main-content-home-style2 .social-icons-verticle{
+        width: 250px;
+        bottom: -85px;
+        left: 70px;
+    }
+
+    #main-content-home-style2 .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+    #main-content-contact .location-map {
+        height: 375px;
+    }
+
+    #main-content-home-style2 .btn {
+        padding: 15.5px 30px;
+    }
+
+
+
+}
+
+
+@media screen and (max-width: 991px) {
+    .bg-header-dark {
+        background-color: #140735;
+    }
+    .about-small-title {
+        font-size: 18px;
+        font-weight: 500;
+        color: #fc730a;
+        text-transform: capitalize;
+        display: inline-block;
+        margin-bottom: 0px;
+    }
+    .about-main-title {
+        font-size: 25px;
+        font-weight: 700;
+        color: #fff;
+        position: relative;
+        display: block;
+        margin-bottom: 30px;
+        line-height: 30px;
+    }
+
+    .form-control {
+        height: 45px;
+        padding: 5px 23px;
+    }
+
+    .form-inline .form-control {
+        width: 100%;
+        padding-left: 30px;
+        padding-right: 162px;
+    }
+
+    .location-map {
+        height: 535px;
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+    .form-inline .form-control {
+        padding-right: 125px;
+    }
+
+    .nav-menu::before {
+        top: 20px;
+        left: 150%;
+    }
+
+    .nav-menu::after {
+        display: none;
+    }
+
+    .contact-form {
+        padding: 40px 20px;
+    }
+
+    .btn {
+        padding: 10.5px 30px;
+    }
+
+    .contact-small-title {
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+
+    .contact-main-title {
+        font-size: 28px;
+        line-height: 33px;
+    }
+
+    .location-map {
+        height: 540px;
+    }
+
+    .form-inline .form-control {
+        height: 45px;
+    }
+
+    .form-control-style2 {
+        height: 45px;
+    }
+
+    .form-inline .form-control-style2 {
+        padding-right: 125px;
+    }
+
+    .team-images{
+        margin-top: 20px;
+        display: none;
+    }
+
+    #main-content-about .social-icons-verticle{
+        width: 250px;
+        bottom: -90px;
+        left: 40px;
+    }
+
+    #main-content-about .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+
+    #main-content-about.fixed-middle{
+        top: 50%;
+    }
+
+
+    .social-icons li a {
+        width: 45px;
+        height: 45px;
+        line-height: 40px;
+    }
+
+    #main-content-contact .contact-form {
+        padding: 30px 15px;
+    }
+
+
+    #main-content-contact .contact-small-title {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+
+    #main-content-contact .contact-main-title {
+        font-size: 24px;
+        margin-bottom: 20px;
+        line-height: 28px;
+    }
+
+    #main-content-contact .form-control {
+        height: 40px;
+        font-size: 14px;
+        padding: 15px 23px;
+    }
+
+    #main-content-contact .social-icons-verticle{
+        width: 250px;
+        bottom: -90px;
+        left: 85px;
+    }
+
+    #main-content-contact .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+
+    #main-content-contact .location-map {
+        height: 485px;
+    }
+
+
+
+
+
+
+    #main-content-home-style2 .btn {
+        padding: 10.5px 30px;
+    }
+
+
+    #main-content-home-style2 .subscribe-form {
+        padding: 0 0px;
+    }
+
+    #main-content-home-style2 .social-icons-verticle{
+        width: 250px;
+        bottom: -90px;
+        left: 60px;
+    }
+
+    #main-content-home-style2 .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+    .team-images{
+        display: none;
+    }
+
+}
+
+
+@media screen and (max-width: 767px) {
+    #years,
+    #months,
+    #days,
+    #hours,
+    #minutes,
+    #seconds {
+        text-align: center;
+        position: relative;
+        width: 24%;
+    }
+
+    #main-content-home .small-title {
+        margin-bottom: 30px;
+    }
+    #main-content-home .main-title {
+        font-size: 50px;
+        margin-bottom: 50px;
+    }
+
+    .counter-box {
+        height: 100px;
+        padding: 10px 40px;
+    }
+
+    .years,
+    .months,
+    .days,
+    .hours,
+    .minutes,
+    .seconds {
+        font-size: 30px;
+    }
+
+    .counter-time-title{
+        font-size: 14px;
+    }
+
+    #years::before,
+    #months::before,
+    #days::before,
+    #hours::before,
+    #minutes::before{
+        top: 16px;
+        right: -10px;
+        height: 6px;
+        width: 6px;
+    }
+
+    #years::after,
+    #months::after,
+    #days::after,
+    #hours::after,
+    #minutes::after{
+        bottom: 30px;
+        right: -10px;
+        height: 6px;
+        width: 6px;
+    }
+
+    #main-content-home .small-title{
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    #main-content-home .small-title::before {
+        left: -65px;
+        width: 90px;
+    }
+
+    #main-content-home .small-title::after {
+        right: -155px;
+        width: 90px;
+    }
+
+    #main-content-home .main-title {
+        font-size: 40px;
+        letter-spacing: 10px;
+        margin-bottom: 15px;
+    }
+
+    .btn {
+        padding: 10.5px 50px;
+    }
+
+    .form-control {
+        height: 45px;
+    }
+
+    .list-inline {
+        text-align: center;
+    }
+
+    .form-control {
+        height: 45px;
+    }
+
+    .location-map{
+        display: none;
+    }
+
+    #main-content-about .team-images{
+        display: none;
+    }
+
+    #main-content-about .social-icons-verticle{
+        width: 250px;
+        bottom: -90px;
+        left: 40px;
+    }
+
+    #main-content-about .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+    #main-content-contact .contact-main-title {
+        font-size: 24px;
+        margin-bottom: 20px;
+        line-height: 28px;
+    }
+
+    #main-content-contact .social-icons-verticle li a {
+        width: 40px;
+        height: 40px;
+        line-height: 35px;
+    }
+
+    #main-content-contact .social-icons-verticle {
+        width: 250px;
+        bottom: -63px;
+        left: 85px;
+    }
+
+    #main-content-contact .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+
+
+    #main-content-home-style2 .home2-main-title {
+        font-size: 50px;
+        line-height: 50px;
+        margin-bottom: 15px;
+    }
+
+    #main-content-home-style2 .clock-item {
+        height: 100px;
+        width: 100px;
+        margin-right: 20px;
+        margin: 10px 15px 0px 0px;
+    }
+
+    #main-content-home-style2 .social-icons-verticle{
+        width: 250px;
+        bottom: -90px;
+        left: 60px;
+    }
+
+    #main-content-home-style2 .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+    #main-content-home-style2 .subscribe-form {
+        padding: 0 0px;
+    }
+
+    #main-content-home-style2 .btn {
+        padding: 10.5px 30px;
+    }
+
+}
+
+
+@media screen and (max-width: 575px) {
+    .navbar {
+        margin-bottom: 50px;
+    }
+    #main-content-home .small-title {
+        margin-bottom: 30px;
+    }
+    #main-content-home .main-title {
+        font-size: 50px;
+        margin-bottom: 50px;
+    }
+
+
+    .counter-box {
+        height: 100px;
+        padding: 10px 40px;
+    }
+
+    .years,
+    .months,
+    .days,
+    .hours,
+    .minutes,
+    .seconds {
+        font-size: 30px;
+    }
+
+    .counter-time-title{
+        font-size: 14px;
+    }
+
+    #years::before,
+    #months::before,
+    #days::before,
+    #hours::before,
+    #minutes::before{
+        top: 16px;
+        right: -10px;
+        height: 6px;
+        width: 6px;
+    }
+
+
+    #years::after,
+    #months::after,
+    #days::after,
+    #hours::after,
+    #minutes::after{
+        bottom: 30px;
+        right: -10px;
+        height: 6px;
+        width: 6px;
+    }
+
+    #main-content-home .small-title{
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    #main-content-home .small-title::before {
+        left: -65px;
+        width: 90px;
+    }
+
+    #main-content-home .small-title::after {
+        right: -155px;
+        width: 90px;
+    }
+
+    #main-content-home .main-title {
+        font-size: 40px;
+        letter-spacing: 10px;
+        margin-bottom: 15px;
+    }
+
+    #main-content-about .team-images{
+        display: none;
+    }
+
+    #main-content-about .social-icons-verticle{
+        width: 250px;
+        bottom: -90px;
+        left: 15px;
+    }
+
+    #main-content-about .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+    #main-content-contact .social-icons-verticle{
+        width: 250px;
+        bottom: -90px;
+        left: 20px;
+    }
+
+    #main-content-contact .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+    #main-content-home-style2 .home2-main-title {
+        font-size: 40px;
+        line-height:40px;
+        letter-spacing: 10px;
+    }
+
+    #main-content-home-style2 .home2-small-title {
+        font-size: 20px;
+    }
+
+    #main-content-home-style2 .clock{
+        display: inline-block;
+    }
+
+    #main-content-home-style2 .clock-item {
+        height: 100px;
+        width: 100px;
+        margin-right: 20px;
+        margin: 10px 15px 0px 0px;
+    }
+
+    #main-content-home-style2 .text .val {
+        font-size: 40px;
+    }
+
+    #main-content-home-style2 .btn {
+        padding: 10.5px 30px;
+    }
+
+    #main-content-home-style2 .social-icons-verticle{
+        width: 250px;
+        bottom: -90px;
+        left: 20px;
+    }
+
+    #main-content-home-style2 .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+    #main-content-home-style2 .subscribe-form {
+        padding: 0 0px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 491px) {
+    .counter-box {
+        height: 75px;
+        padding: 8px 25px;
+    }
+
+    .fixed-middle {
+        top: 45%;
+    }
+
+    #years,
+    #months,
+    #days,
+    #hours,
+    #minutes,
+    #seconds {
+        text-align: center;
+        position: relative;
+        width: 23%;
+    }
+
+    .years,
+    .months,
+    .days,
+    .hours,
+    .minutes,
+    .seconds {
+        font-size: 24px;
+        font-weight: 800;
+    }
+
+    .counter-time-title{
+        font-size: 12px;
+    }
+
+    #years::before,
+    #months::before,
+    #days::before,
+    #hours::before,
+    #minutes::before{
+        top: 22px;
+        right: -10px;
+        height: 6px;
+        width: 6px;
+    }
+
+    #years::after,
+    #months::after,
+    #days::after,
+    #hours::after,
+    #minutes::after{
+        bottom: 38px;
+        right: -10px;
+        height: 6px;
+        width: 6px;
+    }
+
+    #main-content-home .small-title{
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+    #main-content-home .small-title::before {
+        left: -65px;
+        width: 90px;
+    }
+
+    #main-content-home .small-title::after {
+        right: -155px;
+        width: 90px;
+    }
+
+    #main-content-home .main-title {
+        font-size: 30px;
+        letter-spacing: 10px;
+        margin-bottom: 15px;
+    }
+
+    .form-inline .form-control {
+        height: 45px;
+    }
+
+    .form-control {
+        height: 45px;
+    }
+
+    .btn {
+        padding: 10.5px 30px;
+    }
+
+    #main-content-about .team-images{
+        display: none;
+    }
+
+    #main-content-about .social-icons-verticle{
+        width: 250px;
+        bottom: -90px;
+        left: 15px;
+    }
+
+    #main-content-about .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+    #main-content-about .about-small-title {
+        margin-bottom: 5px;
+    }
+
+    #main-content-about .about-main-title {
+        font-size: 35px;
+        margin-bottom: 15px;
+        line-height: 35px;
+    }
+
+    .social-icons-verticle li a {
+        width: 45px;
+        height: 45px;
+        line-height: 40px;
+    }
+
+    #main-content-contact .contact-form {
+        padding: 15px 15px;
+    }
+
+    #main-content-contact .contact-main-title {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    #main-content-contact .contact-small-title {
+        font-size: 18px;
+    }
+
+    #main-content-contact .form-control {
+        height: 35px;
+        padding: 8px 23px;
+    }
+
+    #main-content-contact .social-icons-verticle {
+        width: 250px;
+        bottom: -55px;
+        left: 20px;
+    }
+
+    #main-content-contact .social-icons-verticle ul li{
+        display: inline-block;
+    }
+
+    #main-content-home-style2 .title {
+        text-align: left !important;
+    }
+
+    #main-content-home-style2 .home2-main-title {
+        font-size: 40px;
+        line-height:40px;
+        letter-spacing: 10px;
+    }
+
+    #main-content-home-style2 .home2-small-title {
+        font-size: 20px;
+    }
+
+    #main-content-home-style2 .clock{
+        display: inline-block;
+    }
+
+    #main-content-home-style2 .clock-item {
+        height: 70px;
+        width: 70px;
+        margin-right: 20px;
+        margin: 10px 5px 0px 0px;
+    }
+
+    #main-content-home-style2 .text .type-time {
+        font-size: 9px;
+    }
+
+    #main-content-home-style2 .text .val {
+        font-size: 24px;
+        line-height: 26px;
+    }
+
+    #main-content-home-style2 .btn {
+        padding: 10.5px 30px;
+    }
+
+    #main-content-home-style2 .social-icons-verticle{
+        width: 250px;
+        bottom: -70px;
+        left: 20px;
+    }
+
+    #main-content-home-style2 .social-icons-verticle ul li{
+        display: inline-block;
+    }
+}
